@@ -26,5 +26,9 @@ This project is a collection of data engineering tasks to demonstrate my underst
     ![Branch Protection Created](img/Img2.jpeg)
 
 ## Develop Scripts on Feature Branches
-- Task 1: 
+- Task 1: Choose three features that each represent a data engineering task
+    - Data Cleaning Script to Automate basic data cleansing functions.
+    - Data Transformation Script to create functions to apply transformations to data frames.
+    - Data Loading Script to create functions that write data to file.
+- Task 2: 
 
