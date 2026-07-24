@@ -1,6 +1,6 @@
 import pandas as pd
 
-def validate_data(input_file, output_file):
+def validate_data(input_file: str, output_file: str) -> None:
     
     # Load data
     df = pd.read_csv(input_file)
